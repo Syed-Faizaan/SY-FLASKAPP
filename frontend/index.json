@@ -1,0 +1,13 @@
+{
+    "name": "SyD",
+    "age": 28,
+    "email": "Syde@gmail.com",
+    "isStudent": false,
+    "skills": ["AZURE", "AWS", "GCP"],
+    "address": {
+      "street": "HSRt",
+      "city": "Bangalore",
+      "zip": "5600120"
+    }
+  }
+  
