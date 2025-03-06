@@ -1,0 +1,16 @@
+{
+    "app_name": "Basic Flask App",
+    "version": "1.0",
+    "description": "A simple Flask application with a home and data endpoint.",
+    "author": "SyD",
+    "routes": {
+      "/": "Returns a welcome message.",
+      "/data": "Returns a simple text message."
+    },
+    "server": {
+      "host": "127.0.0.1",
+      "port": 5000,
+      "debug": true
+    }
+  }
+  
